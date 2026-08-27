@@ -1,4 +1,4 @@
-# FastAPI Project - Development
+# Upfull FastAPI - Development
 
 ## Local Development
 
